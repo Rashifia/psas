@@ -1,0 +1,36 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.miage{
+    width: 150px;
+}
+.about{
+    background-color: cadetblue;
+    display: flex; flex-direction: column;
+    align-items: center;
+    padding: 75px;
+}
+.images{
+    display: flex; flex-direction: row;
+    justify-content: space-around; padding: 20px;
+}
+.imgone{
+    width: 300px;
+}
+.imgduo{
+    width: 300px;
+}
+.imgtrio{
+    width: 300px;
+}
+.projectexmp{
+    display: flex; flex-direction: column; padding-top: 20px;
+    
+}
+.ph {
+    display: flex; justify-content: center;
+}
